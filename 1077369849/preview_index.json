@@ -1,7 +1,7 @@
 {
   "qq_number": "941923180",
   "group_number": "1077369849",
-  "updated_at": "2026-11-12T16:54:25+00:00",
+  "updated_at": "2026-11-12T21:27:17+00:00",
   "skins": [
     {
       "name": "茹の永会267",
@@ -1323,6 +1323,13 @@
       "thumb": "茹の永会531.bdi_py_26_light_thumb.png",
       "full": "茹の永会531.bdi_py_26_light_thumb.png",
       "file_id": "82b7bc9009575b7ed2b5441f2e8ada51"
+    },
+    {
+      "name": "茹の永会540",
+      "file": "茹の永会531.bds",
+      "thumb": "茹の永会531.bds_py_26_light_thumb.png",
+      "full": "茹の永会531.bds_py_26_light_thumb.png",
+      "file_id": "f82d490becb3467269fb40f416a5bb90"
     }
   ]
 }
